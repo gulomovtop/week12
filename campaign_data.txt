@@ -1,0 +1,7 @@
+Promo1,Facebook,800,400
+Promo2,Instagram,200,50
+Promo3,Facebook,2000,500
+Ad_A,TikTok,5000,3000
+Ad_B,Instagram,400,300
+Broken,Data,Here,Now
+Ad_C,TikTok,100,50
