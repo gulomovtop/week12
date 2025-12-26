@@ -1,0 +1,11 @@
+PLATFORM TRAFFIC VOLUME
+-----------------------
+Facebook: 3700
+Instagram: 950
+TikTok: 8150
+
+CANCEL CAMPAIGNS (<1000 actions)
+-----------------------
+Promo2 (250 actions)
+Ad_B (700 actions)
+Ad_C (150 actions)
